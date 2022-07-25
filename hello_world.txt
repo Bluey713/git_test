@@ -1,1 +1,2 @@
 more text
+more text after adding the commit message warning
